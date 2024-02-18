@@ -1,7 +1,9 @@
 /*for all*/
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Poppins:wght@300;400;500;600&display=swap');
-
+body{
+  background-color:rgb(255, 247, 241) ;
+}
 * {
     margin: 0;
     padding: 0;
